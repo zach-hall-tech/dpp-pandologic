@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<rss version="2.0">
+
+
+<channel>
+
+
+<title>DPP-Pandologic Jobs</title>
+
+
+<link>https://www.dentistpartnerpros.com/jobs/xlink</link>
+
+
+<description>All DPP job postings to be used for Pandologic.</description>
+
+
+<item>
+
+
+<guid isPermaLink="false">09-23-22-01</guid>
+    <title>Associate Dentist</title>
+    <job_id>01</job_id>
+    <link>https://app.journeyfront.com/?sr=e9f5948f-01fd-11ed-ba21-0e2b69bf7213</link>
+    <description>"Associate Dentist with path to partnership, PLUS ALL THE TECH AND TOOLS NEEDED along with EXCEPTIONAL MENTORING! Abingdon Smiles takes genuine pride in personalized, gentle care in a state-of-the-art facility with three doctors, the newest technology, and an unbeatable clinical and business team. We are a multi-generation practice that continues that has been growing 10-20% per year and is ready to get an associate busy and successful. Opportunity and Practice Details:
+
+
+· Salary and Benefits: Twelve-Month Guaranteed Base Rate of $150,000 or 35% of collections, whichever is greater. Exceptional Earning potential quickly, and only gets better with time.
+
+
+· Medical and Dental Benefit
+
+
+· CE plan and allowance
+
+
+· Retirement plan
+
+
+Direct path to equity ownership.
+10 spacious, modern operatories
+90-100 new patients per month
+Active patient base of 4,000
+2021 collections $2.4 million.
+Prexion CBCT, two Itero 5D Scanners, wireless sensors, CO2 and Diode lasers
+See https://abingdonsmiles.com/
+What about Abingdon, Virginia? Abingdon is in the heart of the Appalachian Valley. It has a reasonable cost of living, excellent private schools and is very safe. The town has 38 restaurants, 12 hotels, and Live Theater year-round. Abingdon has been voted Best Small-Town Food Scene in the Country by USA Today's 10 Best (2019, 2020, and 2021). Located minutes from South Holston Reservoir – a 7,500-acre playground. It’s 120 miles from Charlotte, NC and 10 miles from Tri-Cities airport. Abingdon is the start of creeper trail, a 60-mile mountain bike ride with 43 Dutch Trestles, epic trout stream, rivers and lakes and kayaking tours. https://visitabingdonvirginia.com/
+Job Type: Full-time
+Salary: From $150,000.00 per year
+Benefits:
+
+
+Dental insurance
+Health insurance
+Retirement plan
+
+
+Medical specialties:
+
+
+Primary Care
+
+
+Schedule:
+
+
+8 hour shift
+Ability to commute/relocate:
+
+
+Abingdon, VA 24210: Reliably commute or planning to relocate before starting work (Required)
+
+
+License/Certification:
+
+
+Dentist License (Required)
+Work Location: One location"</description>
+    <pubDate>Fri, 23 Sep 2022 16:03:02 +0000</pubDate>
+<city>Abingdon</city>
+<state>Virginia</state>
+<zip>24210</zip>
+<enclosure url="https://uploads-us-west-2.insided.com/zapier-ca/icon/150x150/211-nM2BDAJ2JNLE3.jpg"  length="27793" type="image/jpeg"/>
+
+
+</item>
+
+
+</channel>
+
+
+</rss>
